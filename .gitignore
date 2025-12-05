@@ -2,3 +2,8 @@
 .ipynb_checkpoints
 data/.ipynb_checkpoints
 *.html
+.Ds_Store
+settings.json
+**/*.pyc
+__pycache__/
+venv/
